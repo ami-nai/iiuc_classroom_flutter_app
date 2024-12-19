@@ -1,0 +1,129 @@
+[
+    {
+      "semester": "1",
+      "section": "1AM",
+      "day": "Saturday",
+      "subject": "MATH-1101",
+      "instructor": "MRI",
+      "time": "10:30–11:20",
+      "room": "C402"
+    },
+    {
+        "semester": "1",
+        "section": "1AM",
+        "day": "Saturday",
+        "subject": "",
+        "instructor": "",
+        "time": "11:20–12:10",
+        "room": ""
+    },
+    {
+      "semester": "1",
+      "section": "1AM",
+      "day": "Saturday",
+      "subject": "PHY-1101",
+      "instructor": "AAM_ADJ",
+      "time": "12:10–01:00",
+      "room": "C102"
+    },
+    {
+        "semester": "1",
+        "section": "1AM",
+        "day": "Saturday",
+        "subject": "Lunch Break and Prayer Time",
+        "instructor": "",
+        "time": "01:00–01:40",
+        "room": ""
+    },
+    {
+        "semester": "1",
+        "section": "1AM",
+        "day": "Saturday",
+        "subject": "CSE-1121",
+        "instructor": "JAA",
+        "time": "01:40–02:30",
+        "room": "C505"
+    },
+    {
+        "semester": "1",
+        "section": "1AM",
+        "day": "Saturday",
+        "subject": "CSE-1121",
+        "instructor": "JAA",
+        "time": "02:30–03:20",
+        "room": "C505"
+    },
+    {
+        "semester": "1",
+        "section": "1AM",
+        "day": "Saturday",
+        "subject": "UREM-1101",
+        "instructor": "DMHK_CGED",
+        "time": "03:20–04:10",
+        "room": "C505"
+    },
+    {
+        "semester": "1",
+        "section": "1BM",
+        "day": "Saturday",
+        "subject": "",
+        "instructor": "",
+        "time": "10:30–11:20",
+        "room": ""
+    },
+    {
+        "semester": "1",
+        "section": "1BM",
+        "day": "Saturday",
+        "subject": "EEE-1121",
+        "instructor": "MTA",
+        "time": "11:20–12:10",
+        "room": "CX505"
+    },
+    {
+        "semester": "1",
+        "section": "1BM",
+        "day": "Saturday",
+        "subject": "",
+        "instructor": "",
+        "time": "12:10–01:00",
+        "room": ""
+    },
+    {
+        "semester": "1",
+        "section": "1BM",
+        "day": "Saturday",
+        "subject": "Lunch Break and Prayer Time",
+        "instructor": "",
+        "time": "01:00–01:40",
+        "room": ""
+    },
+    {
+        "semester": "1",
+        "section": "1BM",
+        "day": "Saturday",
+        "subject": "",
+        "instructor": "",
+        "time": "01:40–02:30",
+        "room": ""
+    },
+    {
+        "semester": "1",
+        "section": "1BM",
+        "day": "Saturday",
+        "subject": "PHY-1101",
+        "instructor": "AAM_ADJ",
+        "time": "02:30–03:20",
+        "room": "CX302"
+    },
+    {
+        "semester": "1",
+        "section": "1BM",
+        "day": "Saturday",
+        "subject": "",
+        "instructor": "",
+        "time": "03:20–04:10",
+        "room": ""
+    }
+  ]
+  

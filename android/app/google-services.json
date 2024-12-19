@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "654555370590",
+    "project_id": "iiucroutineandclassroom",
+    "storage_bucket": "iiucroutineandclassroom.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654555370590:android:00d04ddf3fc3cc438b90cf",
+        "android_client_info": {
+          "package_name": "com.example.iiuc_classroom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNj2XM6ge6oUkEURQaWpZ8Wo7dTlbXeHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
